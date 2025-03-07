@@ -1,27 +1,24 @@
-Portal de Notícias.com
+# Portal de Notícias
 
-Bem-vindo ao Portal de Notícias.com, um site responsivo e dinâmico para acessar as últimas notícias sobre política,
-esportes, saúde e muito mais.
+## Descrição Geral
 
-Tecnologias Utilizadas
+O "Portal de Notícias" é um site simples de notícias, com diversas seções que abordam os principais temas de interesse público como Política, Esportes, Saúde e outras. Ele exibe notícias recentes, imagens e links para mais informações. A página tem uma navegação simples e intuitiva, com um menu para acessar rapidamente as seções principais.
 
-HTML
+## Como Executar o Site
 
-CSS
+Para visualizar o site em seu navegador localmente, siga estas etapas:
 
-Descrição do Projeto
+1. **Clone o repositório** ou baixe os arquivos do projeto para o seu computador.
+2. **Abra o arquivo `index.html`** em seu navegador (não é necessário instalar nenhum servidor para visualização, pois é um arquivo HTML estático).
+3. **Caso deseje modificar o projeto**, você pode editar os arquivos HTML ou CSS diretamente. Para ver as mudanças, basta recarregar a página no navegador.
 
-Este projeto consiste em uma página de um portal de notícias, com seções distintas para diferentes categorias de
-informações.
+## Tecnologias Utilizadas
 
-Estrutura do Projeto
+- **HTML5**: Estrutura e conteúdo do site.
+- **CSS**: Estilização do site (arquivo `estilo.css`).
+- **Imagens**: Utilizadas para ilustrar as notícias.
 
-Cabeçalho: Contém o título do site, um logo e uma breve descrição.
+## Estrutura de Pastas e Arquivos
 
-Navegação: Menu com links para as seções de política, esportes, saúde e início.
+A estrutura de pastas e arquivos do projeto é a seguinte:
 
-Conteúdo Principal: Exibe os artigos mais recentes com título, imagem, descrição e link para leitura completa.
-
-Barra Lateral: Lista de últimas notícias para acesso rápido.
-
-Rodapé: Direitos autorais e informações adicionais.
